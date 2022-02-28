@@ -1,3 +1,8 @@
+## Tejal note:
+Implemented personal tutorial with personal NFTs here: https://nft-minter-tp.herokuapp.com/
+
+____________
+
 # 📝 NFT Minter Tutorial Files
 
 This repository contains the starter files (`minter-starter-files`) and completed version (`nft-tutorial`) of Alchemy's [NFT Minter tutorial](https://docs.alchemyapi.io/alchemy/tutorials/nft-minter). 
